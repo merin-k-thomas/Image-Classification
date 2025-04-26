@@ -1,4 +1,4 @@
-name: Image Classification Pipeline
+name: Image Classification Pipeline Demo
 
 on:
   push:
